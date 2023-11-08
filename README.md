@@ -4,9 +4,11 @@
 
 Experienced Data Scientist currently working in health, with a background in government, social sciences and retail.
 
+Interested in ethical issues around data and AI; co-founder of the [cross-government Data Ethics & Society Reading Group](https://alphagov.github.io/data-ethics-and-society-reading-group/).
+
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=harrietrs)
+![Stats](https://github-readme-stats.vercel.app/api?username=harrietrs&theme=tokyonight)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrietrs)](https://github.com/harrietrs/github-readme-stats)
