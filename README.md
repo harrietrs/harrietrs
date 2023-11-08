@@ -1,6 +1,6 @@
 # Harriet Sands
 
-## Using Data Science for Public Good
+### Using Data Science for Public Good
 
 Experienced Data Scientist currently working in health, with a background in government, social sciences and retail.
 
