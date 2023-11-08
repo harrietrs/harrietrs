@@ -4,7 +4,11 @@
 
 Experienced Data Scientist currently working in health, with a background in government, social sciences and retail.
 
+## Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=harrietrs)
+
+---
 
 [Full resume](https://harrietrs.github.io/)
 
