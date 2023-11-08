@@ -8,6 +8,8 @@ Experienced Data Scientist currently working in health, with a background in gov
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=harrietrs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrietrs)](https://github.com/harrietrs/github-readme-stats)
+
 ---
 
 [Full resume](https://harrietrs.github.io/)
