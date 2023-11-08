@@ -1,4 +1,10 @@
-### Hi there 👋
+# Harriet Sands
+
+## Using Data Science for Public Good
+
+Experienced Data Scientist currently working in health, with a background in government, social sciences and retail.
+
+[Full resume](https://harrietrs.github.io/)
 
 <!--
 **harrietrs/harrietrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
