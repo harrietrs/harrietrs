@@ -4,7 +4,7 @@
 
 Experienced Data Scientist currently working in health, with a background in government, social sciences and retail.
 
-Interested in ethical issues around data and AI; co-founder of the [cross-government Data Ethics & Society Reading Group](https://alphagov.github.io/data-ethics-and-society-reading-group/).
+Interested in ethical issues around data and AI; co-founder of the [cross-government Data Ethics & Society Reading Group](https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/).
 
 ## Stats
 
